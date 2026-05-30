@@ -3,7 +3,15 @@
   "channel": "stable",
   "latest": "0.3.8.0",
   "minimum": "0.3.8.0",
-  "releaseDate": "2026-05-31",
   "mandatory": false,
+
+  "downloadUrl": "",
+  "sha256": "",
+  "signature": "",
+
+  "minimumHubVersion": "",
+  "minimumClientVersion": "0.3.8.0",
+
+  "releaseDate": "2026-05-31",
   "notes": "Initial release metadata."
 }
