@@ -1,0 +1,9 @@
+{
+  "product": "Reldon Control",
+  "channel": "stable",
+  "latest": "0.3.8.0",
+  "minimum": "0.3.8.0",
+  "releaseDate": "2026-05-31",
+  "mandatory": false,
+  "notes": "Initial release metadata."
+}
