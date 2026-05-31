@@ -1,6 +1,5 @@
 {
   "product": "Reldon Control",
-
   "channel": "stable",
 
   "latestVersion": "0.5.4.0",
@@ -8,7 +7,7 @@
 
   "mandatory": false,
 
-  "downloadUrl": "https://updates.reldon.de/stable/Pakete/ReldonControl-0.5.4.0-win-x64.zip",
+  "downloadUrl": "https://github.com/ttm1/Reldon-Release/raw/main/stabil/Pakete/ReldonControl-0.5.4.0-win-x64.zip",
 
   "sha256": "",
   "signature": "",
@@ -18,5 +17,5 @@
 
   "releaseDate": "2026-05-31",
 
-  "notes": "Initial stable release package."
+  "notes": "Initial stable release."
 }
