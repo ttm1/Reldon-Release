@@ -1,17 +1,22 @@
 {
   "product": "Reldon Control",
+
   "channel": "stable",
-  "latest": "0.3.8.0",
-  "minimum": "0.3.8.0",
+
+  "latestVersion": "0.5.4.0",
+  "minimumVersion": "0.5.4.0",
+
   "mandatory": false,
 
-  "downloadUrl": "",
+  "downloadUrl": "https://updates.reldon.de/stable/Pakete/ReldonControl-0.5.4.0-win-x64.zip",
+
   "sha256": "",
   "signature": "",
 
   "minimumHubVersion": "",
-  "minimumClientVersion": "0.3.8.0",
+  "minimumClientVersion": "0.5.4.0",
 
   "releaseDate": "2026-05-31",
-  "notes": "Initial release metadata."
+
+  "notes": "Initial stable release package."
 }
